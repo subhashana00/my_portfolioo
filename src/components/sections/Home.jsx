@@ -537,7 +537,7 @@ export const Home = () => {
         />
       </motion.div>
 
-      <div className="container mx-auto px-4 flex flex-col lg:flex-row items-center justify-between z-10 relative">
+      <div className="container mx-auto px-50 flex flex-col lg:flex-row items-center justify-between z-10 relative">
         {/* Left Side: Content */}
         <motion.div 
           className="text-center lg:text-left lg:w-1/2 z-10 mb-12 lg:mb-0"
